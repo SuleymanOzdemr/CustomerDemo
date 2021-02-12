@@ -1,0 +1,16 @@
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/bin/Debug/net5.0/CustomerDemo
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/bin/Debug/net5.0/CustomerDemo.deps.json
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/bin/Debug/net5.0/CustomerDemo.runtimeconfig.json
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/bin/Debug/net5.0/CustomerDemo.runtimeconfig.dev.json
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/bin/Debug/net5.0/CustomerDemo.dll
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/bin/Debug/net5.0/ref/CustomerDemo.dll
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/bin/Debug/net5.0/CustomerDemo.pdb
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.csprojAssemblyReference.cache
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.AssemblyInfoInputs.cache
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.AssemblyInfo.cs
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.csproj.CoreCompileInputs.cache
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.dll
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/ref/CustomerDemo.dll
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.pdb
+/home/suleyman/RiderProjects/CustomerDemo/CustomerDemo/obj/Debug/net5.0/CustomerDemo.genruntimeconfig.cache
